@@ -36,10 +36,10 @@
                 <db.user>root</db.user>
                 <db.password>vcx153323</db.password>
                 <db.driver>com.mysql.jdbc.Driver</db.driver>
-                <activation>
-                    <activeByDefault>true</activeByDefault>
-                </activation>
             </properties>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
         </profile>
     </profiles>
 
